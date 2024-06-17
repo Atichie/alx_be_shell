@@ -1,6 +1,3 @@
 #!/bin/bash
-
-
-# Get the effective username of the current user
-julien
+root
 
