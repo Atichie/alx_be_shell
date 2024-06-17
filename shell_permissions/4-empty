@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Create an empty file named hello
 touch hello
